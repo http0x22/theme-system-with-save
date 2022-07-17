@@ -1,0 +1,11 @@
+C:\Users\http0\Documents\! Shit Stuff Made By Me !\theme thingy\theme thingy\bin\Debug\theme thingy.exe.config
+C:\Users\http0\Documents\! Shit Stuff Made By Me !\theme thingy\theme thingy\bin\Debug\theme thingy.exe
+C:\Users\http0\Documents\! Shit Stuff Made By Me !\theme thingy\theme thingy\bin\Debug\theme thingy.pdb
+C:\Users\http0\Documents\! Shit Stuff Made By Me !\theme thingy\theme thingy\obj\Debug\theme thingy.csproj.AssemblyReference.cache
+C:\Users\http0\Documents\! Shit Stuff Made By Me !\theme thingy\theme thingy\obj\Debug\theme thingy.csproj.SuggestedBindingRedirects.cache
+C:\Users\http0\Documents\! Shit Stuff Made By Me !\theme thingy\theme thingy\obj\Debug\theme_thingy.Form1.resources
+C:\Users\http0\Documents\! Shit Stuff Made By Me !\theme thingy\theme thingy\obj\Debug\theme_thingy.Properties.Resources.resources
+C:\Users\http0\Documents\! Shit Stuff Made By Me !\theme thingy\theme thingy\obj\Debug\theme thingy.csproj.GenerateResource.cache
+C:\Users\http0\Documents\! Shit Stuff Made By Me !\theme thingy\theme thingy\obj\Debug\theme thingy.csproj.CoreCompileInputs.cache
+C:\Users\http0\Documents\! Shit Stuff Made By Me !\theme thingy\theme thingy\obj\Debug\theme thingy.exe
+C:\Users\http0\Documents\! Shit Stuff Made By Me !\theme thingy\theme thingy\obj\Debug\theme thingy.pdb
